@@ -1,4 +1,4 @@
-package com.iwoplaza.testapp;
+package pl.mios.server;
 
 import com.sun.net.httpserver.HttpServer;
 
